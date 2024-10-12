@@ -2,6 +2,6 @@
 
 while :; do
     echo "hello world!!"
-    sleep 5
+    sleep 50000
 done
 
